@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrownLeaf</string>
+    <string-array name="city">
+        <item>--Choose City -- </item>
+        <item>New Delhi </item>
+    </string-array>
+    <string-array name="area">
+        <item>--Choose Area -- </item>
+        <item>New Delhi </item>
+    </string-array>
+
+</resources>
